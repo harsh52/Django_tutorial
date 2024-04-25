@@ -1,5 +1,5 @@
 
-# Flask Application Example
+# Ecommerce store Flask Application
 
 This repository contains a simple Flask application that implements an API for managing shopping carts and purchases. It also includes unit tests to ensure the functionality of the application.
 
